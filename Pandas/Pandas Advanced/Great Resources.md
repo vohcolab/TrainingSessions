@@ -1,0 +1,3 @@
+# Great resources to keep learning about Stuff you can do with Pandas
+
+1. Our notebooks were inspired by [this repository](https://github.com/LDSSA/batch4-students/tree/master/S01%20-%20Bootcamp%20and%20Binary%20Classification). There's explanation more in depth there than here, since our workshop is introdutory. You will find some machine learning stuff mixed with pandas. So you can skip those parts if you want. But in general, you can learn Pandas very well from their notebooks.

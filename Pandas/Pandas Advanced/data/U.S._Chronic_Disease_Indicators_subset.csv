@@ -1,0 +1,56 @@
+LocationDesc,indicator_id,YearStart,YearEnd,Topic,Question,DataValueUnit,DataValue
+Tennessee,1074,2012,2012,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,,3868
+Montana,9769,2014,2014,Tobacco,Current smokeless tobacco use among adults aged >= 18 years,%,8.0
+Alabama,4768,2016,2016,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,"cases per 1,000",14.28
+North Dakota,6789,2012,2012,Diabetes,Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes,%,65.5
+Puerto Rico,1170,2016,2016,Asthma,Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma,%,25.7
+Guam,1794,2011,2011,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,%,35.9
+Kansas,5502,2016,2016,Cardiovascular Disease,Influenza vaccination among noninstitutionalized adults aged 18-64 years with a history of coronary heart disease or stroke,%,41.6
+New York,8488,2016,2016,Overarching Conditions,Recent activity limitation among adults aged >= 18 years,Number,2.4
+Oregon,9193,2014,2014,"Nutrition, Physical Activity, and Weight Status",Healthy weight among adults aged >= 18 years,%,45.1
+West Virginia,697,2015,2015,Diabetes,Mortality with diabetic ketoacidosis reported as any listed cause of death,,
+Rhode Island,2485,2017,2017,"Nutrition, Physical Activity, and Weight Status",Soda consumption among high school students,%,
+New Jersey,3676,2011,2011,Overarching Conditions,Self-rated health status among women aged 18-44 years,%,
+Iowa,8228,2016,2017,Oral Health,Dental visits among children and adolescents aged 1-17 years,%,83.6
+Arizona,1390,2012,2012,Cardiovascular Disease,Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke,%,59.4
+Indiana,9114,2015,2015,Cardiovascular Disease,Hospitalization for acute myocardial infarction,"cases per 10,000",
+Vermont,1477,2010,2014,Cancer,"Cancer of the lung and bronchus, incidence",,
+Pennsylvania,5528,2013,2013,Chronic Obstructive Pulmonary Disease,Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease,%,49.1
+Illinois,2301,2014,2014,Oral Health,No tooth loss among adults aged 18-64 years,%,
+Texas,9615,2015,2015,Older Adults,Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years,"cases per 1,000",3.79
+District of Columbia,9046,2014,2014,Cardiovascular Disease,Hospitalization for acute myocardial infarction,,133
+Nebraska,3099,2018,2018,Asthma,Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma,%,
+Arkansas,7065,2011,2011,Cardiovascular Disease,Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke,%,60.0
+Kentucky,7207,2012,2012,Tobacco,Quit attempts in the past year among current smokers,%,59.6
+Utah,5876,2016,2016,"Nutrition, Physical Activity, and Weight Status",Obesity among adults aged >= 18 years,%,25.7
+Mississippi,2359,2017,2017,Cardiovascular Disease,Mortality from coronary heart disease,"cases per 100,000",97.6
+Wisconsin,4546,2012,2012,Cardiovascular Disease,Mortality from total cardiovascular diseases,"cases per 100,000",34.0
+Oklahoma,2747,2013,2013,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,"cases per 100,000",160.9
+Georgia,5369,2011,2011,Cardiovascular Disease,Taking medicine for high blood pressure control among adults aged >= 18 years with high blood pressure,%,71.0
+California,3774,2017,2017,Arthritis,Physical inactivity among adults aged >= 18 years with arthritis,%,23.8
+Virgin Islands,3074,2015,2015,Cardiovascular Disease,Influenza vaccination among noninstitutionalized adults aged >= 65 years with a history of coronary heart disease or stroke,%,
+South Carolina,8900,2012,2016,Cancer,"Invasive cancer of the female breast, incidence",,4944
+United States,2618,2011,2011,"Nutrition, Physical Activity, and Weight Status",Live births occurring at Baby Friendly Facilities,%,4.5
+Ohio,4082,2013,2013,Chronic Obstructive Pulmonary Disease,Prevalence of current smoking among adults >= 18 with diagnosed chronic obstructive pulmonary disease,%,40.7
+Massachusetts,5457,2016,2016,Cancer,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",%,68.5
+Nevada,731,2013,2013,Cardiovascular Disease,Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,"cases per 1,000",11.76
+Delaware,1333,2016,2016,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,"cases per 100,000",
+Maryland,4323,2015,2015,Asthma,Asthma mortality rate,"cases per 1,000,000",
+Maine,2721,2016,2016,Diabetes,Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes,%,66.7
+Minnesota,8050,2017,2017,Arthritis,Arthritis among adults aged >= 18 years who are obese,%,21.2
+New Hampshire,894,2017,2017,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,"cases per 1,000",
+North Carolina,2114,2017,2017,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,Number,5102
+Virginia,5067,2012,2012,Overarching Conditions,Premature mortality among adults aged 45-64 years,,3295
+Florida,7505,2017,2017,Chronic Kidney Disease,Mortality with end-stage renal disease,Number,8731
+Michigan,552,2009,2013,Cancer,"Cancer of the prostate, mortality",,
+Connecticut,5306,2013,2013,Asthma,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma,%,30.4
+Washington,2752,2016,2016,Tobacco,Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke,%,75.3
+South Dakota,6631,2013,2013,Diabetes,Hospitalization with diabetes as a listed diagnosis,"cases per 10,000",176.96
+Missouri,7301,2018,2018,Alcohol,Heavy drinking among women aged 18-44 years,%,
+Louisiana,2767,2013,2013,Alcohol,Binge drinking intensity among adults aged >= 18 years who binge drink,Number,8.7
+Alaska,8173,2008,2012,Cancer,"Cancer of the female cervix, mortality",,
+Idaho,4191,2017,2017,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,%,28.7
+Hawaii,870,2011,2011,"Nutrition, Physical Activity, and Weight Status",Obesity among adults aged >= 18 years,%,22.2
+Wyoming,1472,2014,2014,Disability,Disability among adults aged >= 65 years,%,
+New Mexico,6228,2011,2011,Overarching Conditions,Poverty,%,
+Colorado,6559,2012,2012,Cardiovascular Disease,Mortality from coronary heart disease,,133
