@@ -10,7 +10,8 @@
 # Contents
 * What is a program
 * What is a programming language for
-* Python
+* Functions/Classes in Python
+* 
 
 # Value for Health Colab
 
