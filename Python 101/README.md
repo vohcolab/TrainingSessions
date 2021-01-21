@@ -8,10 +8,10 @@
 
 
 # Contents
-* What is a program
-* What is a programming language for
-* Functions/Classes in Python
-* 
+* What is a programming language
+* Data types, functions and classes in Python
+* If blocks
+* for blocks
 
 # Value for Health Colab
 
