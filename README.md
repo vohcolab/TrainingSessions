@@ -10,7 +10,7 @@
 
 # Python 101
 
-- [Learning Notebook](https://github.com/vohcolab/TrainingSessions/blob/main/Python%20101/Learning%20notebook%20(Pandas%20101).ipynb)
+- [Learning Notebook](https://colab.research.google.com/github/vohcolab/TrainingSessions/blob/main/Python%20101/Learning%20notebook%20(Pandas%20101).ipynb)
 
 ## Pandas
 ### Pandas 101
