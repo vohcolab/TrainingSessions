@@ -16,7 +16,7 @@
 ### Pandas 101
 
 - [Learning Notebook](https://colab.research.google.com/github/vohcolab/TrainingSessions/blob/main/Pandas/Pandas%20101/Learning%20notebook%20(Pandas%20101).ipynb)
-- [Exercises Notebook](https://github.com/vohcolab/TrainingSessions/blob/main/Pandas/Pandas%20101/Exercise%20notebook%20(Pandas%20101).ipynb)
+- [Exercises Notebook](https://colab.research.google.com/github/vohcolab/TrainingSessions/blob/main/Pandas/Pandas%20101/Exercise%20notebook%20(Pandas%20101).ipynb)
 
 ### Pandas Advanced
 
